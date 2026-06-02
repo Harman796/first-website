@@ -1,5 +1,6 @@
 #home {
-  background: url(background.jpg); 
+  background: url(background.jpg);
+  
 }
 
 #header h1{
@@ -26,4 +27,12 @@
 #navigation ul li a:hover {
     color: cyan;;
 
+}
+
+#info {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: 20px 20px 20 black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
